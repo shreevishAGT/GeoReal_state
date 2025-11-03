@@ -1,0 +1,1658 @@
+[
+  {
+    "name": "Trust Store Kochi",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        76.2673,
+        9.9816
+      ]
+    },
+    "products": [
+      "Cough Syrup",
+      "Hand Sanitizer",
+      "Nivea"
+    ]
+  },
+  {
+    "name": "Wellness Pharmacy Jaipur",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        75.7873,
+        26.9124
+      ]
+    },
+    "products": [
+      "Odomos",
+      "Bandages",
+      "Cough Syrup",
+      "Antibiotics",
+      "Himalaya Face Wash",
+      "Baby Lotion"
+    ]
+  },
+  {
+    "name": "Medi Pharmacy Coimbatore",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        76.964,
+        11.0168
+      ]
+    },
+    "products": [
+      "Moov",
+      "Cough Syrup",
+      "Nivea",
+      "Vicks"
+    ]
+  },
+  {
+    "name": "Medi Pharmacy Patna",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        85.1376,
+        25.5941
+      ]
+    },
+    "products": [
+      "ORS",
+      "Crocin",
+      "Moov",
+      "Volini",
+      "Vicks"
+    ]
+  },
+  {
+    "name": "Plus Store Chennai",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        80.2707,
+        13.0827
+      ]
+    },
+    "products": [
+      "Himalaya Face Wash",
+      "Dettol",
+      "Volini",
+      "Bandages",
+      "Nivea",
+      "Antibiotics"
+    ]
+  },
+  {
+    "name": "Medi Meds Goa",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        73.8543,
+        15.2993
+      ]
+    },
+    "products": [
+      "Cough Syrup",
+      "Dettol",
+      "Hand Sanitizer"
+    ]
+  },
+  {
+    "name": "Care Centre Kochi",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        76.2673,
+        9.9816
+      ]
+    },
+    "products": [
+      "Cough Syrup",
+      "Antibiotics",
+      "Dettol"
+    ]
+  },
+  {
+    "name": "Health Hub Bhopal",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        77.4126,
+        23.2599
+      ]
+    },
+    "products": [
+      "Savlon",
+      "Odomos",
+      "Paracetamol",
+      "Dettol",
+      "Dolo 650",
+      "Himalaya Face Wash"
+    ]
+  },
+  {
+    "name": "Care Hub Lucknow",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        80.9462,
+        26.8467
+      ]
+    },
+    "products": [
+      "Cough Syrup",
+      "Odomos",
+      "Baby Lotion",
+      "Vicks"
+    ]
+  },
+  {
+    "name": "Care Hub Hyderabad",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        78.4867,
+        17.385
+      ]
+    },
+    "products": [
+      "ORS",
+      "Dettol",
+      "Baby Lotion",
+      "Odomos",
+      "Volini"
+    ]
+  },
+  {
+    "name": "Wellness Pharmacy Lucknow",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        80.9462,
+        26.8467
+      ]
+    },
+    "products": [
+      "Dolo 650",
+      "Moov",
+      "Nivea",
+      "Dettol"
+    ]
+  },
+  {
+    "name": "Medi Pharmacy Jaipur",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        75.7873,
+        26.9124
+      ]
+    },
+    "products": [
+      "Nivea",
+      "Dettol",
+      "Cough Syrup",
+      "Crocin",
+      "Moov",
+      "Vicks"
+    ]
+  },
+  {
+    "name": "Lifeline Store Patna",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        85.1376,
+        25.5941
+      ]
+    },
+    "products": [
+      "Odomos",
+      "Savlon",
+      "Nivea",
+      "Bandages",
+      "Dettol",
+      "Vicks"
+    ]
+  },
+  {
+    "name": "Trust Store Nagpur",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        79.0882,
+        21.1458
+      ]
+    },
+    "products": [
+      "ORS",
+      "Nivea",
+      "Savlon"
+    ]
+  },
+  {
+    "name": "Care Meds Kochi",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        76.2673,
+        9.9816
+      ]
+    },
+    "products": [
+      "ORS",
+      "Dettol",
+      "Cough Syrup",
+      "Nivea",
+      "Dolo 650"
+    ]
+  },
+  {
+    "name": "Cure Store Chennai",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        80.2707,
+        13.0827
+      ]
+    },
+    "products": [
+      "Moov",
+      "Baby Lotion",
+      "Dettol",
+      "Volini",
+      "Cough Syrup",
+      "Nivea"
+    ]
+  },
+  {
+    "name": "Trust Pharmacy Jaipur",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        75.7873,
+        26.9124
+      ]
+    },
+    "products": [
+      "Volini",
+      "Baby Lotion",
+      "Dettol",
+      "Odomos",
+      "Cough Syrup"
+    ]
+  },
+  {
+    "name": "Medi Hub Indore",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        75.8577,
+        22.7196
+      ]
+    },
+    "products": [
+      "Himalaya Face Wash",
+      "Hand Sanitizer",
+      "Dettol",
+      "Crocin"
+    ]
+  },
+  {
+    "name": "Wellness Meds Patna",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        85.1376,
+        25.5941
+      ]
+    },
+    "products": [
+      "Antibiotics",
+      "Himalaya Face Wash",
+      "Bandages",
+      "Pain Relief Gel",
+      "Nivea"
+    ]
+  },
+  {
+    "name": "Care Centre Lucknow",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        80.9462,
+        26.8467
+      ]
+    },
+    "products": [
+      "Savlon",
+      "Nivea",
+      "Volini"
+    ]
+  },
+  {
+    "name": "Plus Meds Ahmedabad",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        72.5714,
+        23.0225
+      ]
+    },
+    "products": [
+      "Pain Relief Gel",
+      "Baby Lotion",
+      "Himalaya Face Wash"
+    ]
+  },
+  {
+    "name": "Health Pharmacy Mysore",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        76.6394,
+        12.2958
+      ]
+    },
+    "products": [
+      "Odomos",
+      "Moov",
+      "Hand Sanitizer",
+      "Antibiotics",
+      "Himalaya Face Wash"
+    ]
+  },
+  {
+    "name": "Care Store Kochi",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        76.2673,
+        9.9816
+      ]
+    },
+    "products": [
+      "Savlon",
+      "Bandages",
+      "Dolo 650",
+      "Nivea"
+    ]
+  },
+  {
+    "name": "Care Pharmacy Mumbai",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        72.8777,
+        19.076
+      ]
+    },
+    "products": [
+      "Volini",
+      "Savlon",
+      "Odomos",
+      "Antibiotics"
+    ]
+  },
+  {
+    "name": "Cure Store Indore",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        75.8577,
+        22.7196
+      ]
+    },
+    "products": [
+      "Volini",
+      "Hand Sanitizer",
+      "Moov",
+      "Crocin",
+      "Vicks"
+    ]
+  },
+  {
+    "name": "Lifeline Meds Mysore",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        76.6394,
+        12.2958
+      ]
+    },
+    "products": [
+      "Vicks",
+      "Dolo 650",
+      "Himalaya Face Wash",
+      "Moov",
+      "ORS",
+      "Volini"
+    ]
+  },
+  {
+    "name": "Plus Meds Mysore",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        76.6394,
+        12.2958
+      ]
+    },
+    "products": [
+      "Hand Sanitizer",
+      "Savlon",
+      "Antibiotics",
+      "Crocin"
+    ]
+  },
+  {
+    "name": "Care Centre Lucknow",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        80.9462,
+        26.8467
+      ]
+    },
+    "products": [
+      "Himalaya Face Wash",
+      "Vicks",
+      "Paracetamol",
+      "Hand Sanitizer",
+      "Cough Syrup"
+    ]
+  },
+  {
+    "name": "Health Store Indore",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        75.8577,
+        22.7196
+      ]
+    },
+    "products": [
+      "Odomos",
+      "Antibiotics",
+      "Nivea",
+      "Moov",
+      "Himalaya Face Wash",
+      "Cough Syrup"
+    ]
+  },
+  {
+    "name": "Care Hub Mumbai",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        72.8777,
+        19.076
+      ]
+    },
+    "products": [
+      "Dettol",
+      "Odomos",
+      "Baby Lotion",
+      "Cough Syrup",
+      "Nivea",
+      "Savlon"
+    ]
+  },
+  {
+    "name": "Medi Hub Lucknow",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        80.9462,
+        26.8467
+      ]
+    },
+    "products": [
+      "Savlon",
+      "Cough Syrup",
+      "Odomos",
+      "Nivea"
+    ]
+  },
+  {
+    "name": "Trust Store Chennai",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        80.2707,
+        13.0827
+      ]
+    },
+    "products": [
+      "Volini",
+      "ORS",
+      "Odomos",
+      "Cough Syrup",
+      "Savlon",
+      "Baby Lotion"
+    ]
+  },
+  {
+    "name": "Lifeline Store Pune",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        73.8567,
+        18.5204
+      ]
+    },
+    "products": [
+      "Himalaya Face Wash",
+      "Volini",
+      "Baby Lotion",
+      "Hand Sanitizer",
+      "Vicks",
+      "Nivea"
+    ]
+  },
+  {
+    "name": "Wellness Meds Surat",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        72.8311,
+        21.1702
+      ]
+    },
+    "products": [
+      "Hand Sanitizer",
+      "ORS",
+      "Moov",
+      "Paracetamol",
+      "Dolo 650",
+      "Nivea"
+    ]
+  },
+  {
+    "name": "Cure Hub Kochi",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        76.2673,
+        9.9816
+      ]
+    },
+    "products": [
+      "Hand Sanitizer",
+      "Bandages",
+      "Nivea",
+      "Moov",
+      "Dettol",
+      "Antibiotics"
+    ]
+  },
+  {
+    "name": "Trust Centre Ahmedabad",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        72.5714,
+        23.0225
+      ]
+    },
+    "products": [
+      "Nivea",
+      "Pain Relief Gel",
+      "Hand Sanitizer",
+      "Dettol",
+      "Paracetamol"
+    ]
+  },
+  {
+    "name": "Medi Hub Jaipur",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        75.7873,
+        26.9124
+      ]
+    },
+    "products": [
+      "Himalaya Face Wash",
+      "Hand Sanitizer",
+      "Cough Syrup",
+      "Nivea"
+    ]
+  },
+  {
+    "name": "Plus Pharmacy Chandigarh",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        76.7794,
+        30.7333
+      ]
+    },
+    "products": [
+      "Cough Syrup",
+      "Odomos",
+      "Dettol",
+      "Savlon"
+    ]
+  },
+  {
+    "name": "Plus Store Chandigarh",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        76.7794,
+        30.7333
+      ]
+    },
+    "products": [
+      "Antibiotics",
+      "ORS",
+      "Volini",
+      "Odomos",
+      "Baby Lotion",
+      "Moov"
+    ]
+  },
+  {
+    "name": "Cure Store Ahmedabad",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        72.5714,
+        23.0225
+      ]
+    },
+    "products": [
+      "Volini",
+      "Vicks",
+      "Hand Sanitizer"
+    ]
+  },
+  {
+    "name": "Care Pharmacy Indore",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        75.8577,
+        22.7196
+      ]
+    },
+    "products": [
+      "Cough Syrup",
+      "Paracetamol",
+      "Pain Relief Gel"
+    ]
+  },
+  {
+    "name": "Health Hub Chennai",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        80.2707,
+        13.0827
+      ]
+    },
+    "products": [
+      "Antibiotics",
+      "Moov",
+      "ORS",
+      "Volini"
+    ]
+  },
+  {
+    "name": "Lifeline Store Kolkata",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        88.3639,
+        22.5726
+      ]
+    },
+    "products": [
+      "Antibiotics",
+      "Paracetamol",
+      "Cough Syrup"
+    ]
+  },
+  {
+    "name": "Plus Pharmacy Mysore",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        76.6394,
+        12.2958
+      ]
+    },
+    "products": [
+      "Dettol",
+      "Volini",
+      "Baby Lotion",
+      "Cough Syrup"
+    ]
+  },
+  {
+    "name": "Medi Store Goa",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        73.8543,
+        15.2993
+      ]
+    },
+    "products": [
+      "Antibiotics",
+      "Pain Relief Gel",
+      "Nivea",
+      "Dettol"
+    ]
+  },
+  {
+    "name": "Care Centre Kolkata",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        88.3639,
+        22.5726
+      ]
+    },
+    "products": [
+      "Paracetamol",
+      "Himalaya Face Wash",
+      "Dolo 650",
+      "Hand Sanitizer"
+    ]
+  },
+  {
+    "name": "Medi Pharmacy Chennai",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        80.2707,
+        13.0827
+      ]
+    },
+    "products": [
+      "Odomos",
+      "Pain Relief Gel",
+      "Vicks",
+      "Baby Lotion",
+      "Hand Sanitizer"
+    ]
+  },
+  {
+    "name": "Wellness Centre Ahmedabad",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        72.5714,
+        23.0225
+      ]
+    },
+    "products": [
+      "Savlon",
+      "Nivea",
+      "Crocin",
+      "Himalaya Face Wash",
+      "Paracetamol"
+    ]
+  },
+  {
+    "name": "Trust Pharmacy Nagpur",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        79.0882,
+        21.1458
+      ]
+    },
+    "products": [
+      "Dolo 650",
+      "Baby Lotion",
+      "Savlon",
+      "Himalaya Face Wash"
+    ]
+  },
+  {
+    "name": "Health Meds Coimbatore",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        76.964,
+        11.0168
+      ]
+    },
+    "products": [
+      "Dettol",
+      "Moov",
+      "Hand Sanitizer",
+      "Himalaya Face Wash",
+      "Baby Lotion"
+    ]
+  },
+  {
+    "name": "Wellness Pharmacy Indore",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        75.8577,
+        22.7196
+      ]
+    },
+    "products": [
+      "Dettol",
+      "Nivea",
+      "ORS",
+      "Himalaya Face Wash",
+      "Savlon"
+    ]
+  },
+  {
+    "name": "Lifeline Pharmacy Delhi",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        77.1025,
+        28.7041
+      ]
+    },
+    "products": [
+      "Himalaya Face Wash",
+      "Savlon",
+      "ORS"
+    ]
+  },
+  {
+    "name": "Lifeline Centre Ahmedabad",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        72.5714,
+        23.0225
+      ]
+    },
+    "products": [
+      "Cough Syrup",
+      "Paracetamol",
+      "Antibiotics"
+    ]
+  },
+  {
+    "name": "Trust Centre Pune",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        73.8567,
+        18.5204
+      ]
+    },
+    "products": [
+      "Volini",
+      "Dettol",
+      "Hand Sanitizer",
+      "ORS",
+      "Bandages",
+      "Pain Relief Gel"
+    ]
+  },
+  {
+    "name": "Plus Pharmacy Ahmedabad",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        72.5714,
+        23.0225
+      ]
+    },
+    "products": [
+      "Bandages",
+      "Dolo 650",
+      "Himalaya Face Wash",
+      "ORS",
+      "Volini",
+      "Odomos"
+    ]
+  },
+  {
+    "name": "Plus Store Delhi",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        77.1025,
+        28.7041
+      ]
+    },
+    "products": [
+      "Pain Relief Gel",
+      "Dolo 650",
+      "Antibiotics",
+      "Cough Syrup",
+      "Volini"
+    ]
+  },
+  {
+    "name": "Wellness Centre Delhi",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        77.1025,
+        28.7041
+      ]
+    },
+    "products": [
+      "Paracetamol",
+      "Nivea",
+      "Odomos",
+      "Cough Syrup"
+    ]
+  },
+  {
+    "name": "Plus Meds Goa",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        73.8543,
+        15.2993
+      ]
+    },
+    "products": [
+      "Nivea",
+      "Moov",
+      "ORS"
+    ]
+  },
+  {
+    "name": "Cure Centre Hyderabad",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        78.4867,
+        17.385
+      ]
+    },
+    "products": [
+      "Antibiotics",
+      "Paracetamol"
+    ]
+  },
+  {
+    "name": "Plus Hub Goa",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        73.8543,
+        15.2993
+      ]
+    },
+    "products": [
+      "Hand Sanitizer",
+      "Bandages",
+      "Savlon",
+      "Cough Syrup",
+      "ORS",
+      "Himalaya Face Wash"
+    ]
+  },
+  {
+    "name": "Wellness Hub Bangalore",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        77.5946,
+        12.9716
+      ]
+    },
+    "products": [
+      "Moov",
+      "Nivea",
+      "Cough Syrup",
+      "ORS"
+    ]
+  },
+  {
+    "name": "Plus Hub Hyderabad",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        78.4867,
+        17.385
+      ]
+    },
+    "products": [
+      "Pain Relief Gel",
+      "Baby Lotion",
+      "Cough Syrup",
+      "Volini",
+      "Dolo 650"
+    ]
+  },
+  {
+    "name": "Trust Meds Kolkata",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        88.3639,
+        22.5726
+      ]
+    },
+    "products": [
+      "Dettol",
+      "Pain Relief Gel",
+      "Moov",
+      "Bandages",
+      "Baby Lotion",
+      "Paracetamol"
+    ]
+  },
+  {
+    "name": "Plus Hub Mumbai",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        72.8777,
+        19.076
+      ]
+    },
+    "products": [
+      "Antibiotics",
+      "Paracetamol",
+      "Baby Lotion",
+      "Crocin"
+    ]
+  },
+  {
+    "name": "Care Hub Kolkata",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        88.3639,
+        22.5726
+      ]
+    },
+    "products": [
+      "Savlon",
+      "Dettol",
+      "Baby Lotion",
+      "Crocin"
+    ]
+  },
+  {
+    "name": "Medi Pharmacy Nagpur",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        79.0882,
+        21.1458
+      ]
+    },
+    "products": [
+      "Savlon",
+      "Moov",
+      "Paracetamol"
+    ]
+  },
+  {
+    "name": "Lifeline Hub Coimbatore",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        76.964,
+        11.0168
+      ]
+    },
+    "products": [
+      "Nivea",
+      "Paracetamol",
+      "Volini",
+      "Antibiotics"
+    ]
+  },
+  {
+    "name": "Medi Pharmacy Chandigarh",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        76.7794,
+        30.7333
+      ]
+    },
+    "products": [
+      "Hand Sanitizer",
+      "Paracetamol",
+      "Dolo 650",
+      "Moov",
+      "Nivea"
+    ]
+  },
+  {
+    "name": "Care Hub Pune",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        73.8567,
+        18.5204
+      ]
+    },
+    "products": [
+      "Nivea",
+      "Volini",
+      "Bandages"
+    ]
+  },
+  {
+    "name": "Health Meds Kochi",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        76.2673,
+        9.9816
+      ]
+    },
+    "products": [
+      "Baby Lotion",
+      "Paracetamol",
+      "Dettol",
+      "Moov"
+    ]
+  },
+  {
+    "name": "Cure Centre Nagpur",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        79.0882,
+        21.1458
+      ]
+    },
+    "products": [
+      "Dettol",
+      "Savlon",
+      "ORS",
+      "Pain Relief Gel",
+      "Antibiotics"
+    ]
+  },
+  {
+    "name": "Cure Pharmacy Hyderabad",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        78.4867,
+        17.385
+      ]
+    },
+    "products": [
+      "Dolo 650",
+      "Odomos",
+      "Moov",
+      "Vicks"
+    ]
+  },
+  {
+    "name": "Medi Pharmacy Indore",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        75.8577,
+        22.7196
+      ]
+    },
+    "products": [
+      "Moov",
+      "Paracetamol",
+      "Himalaya Face Wash",
+      "Dolo 650",
+      "Pain Relief Gel",
+      "Bandages"
+    ]
+  },
+  {
+    "name": "Wellness Pharmacy Goa",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        73.8543,
+        15.2993
+      ]
+    },
+    "products": [
+      "Hand Sanitizer",
+      "Savlon",
+      "Bandages",
+      "Paracetamol",
+      "Nivea",
+      "Odomos"
+    ]
+  },
+  {
+    "name": "Wellness Hub Pune",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        73.8567,
+        18.5204
+      ]
+    },
+    "products": [
+      "Paracetamol",
+      "Vicks",
+      "ORS",
+      "Nivea",
+      "Cough Syrup"
+    ]
+  },
+  {
+    "name": "Wellness Store Bhopal",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        77.4126,
+        23.2599
+      ]
+    },
+    "products": [
+      "Antibiotics",
+      "Dolo 650",
+      "ORS",
+      "Baby Lotion"
+    ]
+  },
+  {
+    "name": "Medi Store Pune",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        73.8567,
+        18.5204
+      ]
+    },
+    "products": [
+      "Crocin",
+      "Antibiotics",
+      "Dolo 650",
+      "Pain Relief Gel",
+      "Cough Syrup",
+      "Paracetamol"
+    ]
+  },
+  {
+    "name": "Plus Centre Bangalore",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        77.5946,
+        12.9716
+      ]
+    },
+    "products": [
+      "Hand Sanitizer",
+      "Himalaya Face Wash",
+      "Nivea",
+      "Moov"
+    ]
+  },
+  {
+    "name": "Wellness Hub Bangalore",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        77.5946,
+        12.9716
+      ]
+    },
+    "products": [
+      "ORS",
+      "Paracetamol",
+      "Vicks",
+      "Cough Syrup"
+    ]
+  },
+  {
+    "name": "Plus Hub Goa",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        73.8543,
+        15.2993
+      ]
+    },
+    "products": [
+      "ORS",
+      "Nivea",
+      "Savlon",
+      "Antibiotics",
+      "Baby Lotion"
+    ]
+  },
+  {
+    "name": "Health Store Surat",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        72.8311,
+        21.1702
+      ]
+    },
+    "products": [
+      "Paracetamol",
+      "Himalaya Face Wash",
+      "Vicks"
+    ]
+  },
+  {
+    "name": "Health Centre Nagpur",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        79.0882,
+        21.1458
+      ]
+    },
+    "products": [
+      "Himalaya Face Wash",
+      "Pain Relief Gel",
+      "Crocin",
+      "Odomos"
+    ]
+  },
+  {
+    "name": "Trust Pharmacy Lucknow",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        80.9462,
+        26.8467
+      ]
+    },
+    "products": [
+      "Vicks",
+      "Baby Lotion",
+      "Volini"
+    ]
+  },
+  {
+    "name": "Lifeline Pharmacy Goa",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        73.8543,
+        15.2993
+      ]
+    },
+    "products": [
+      "Volini",
+      "Nivea",
+      "Paracetamol",
+      "Hand Sanitizer"
+    ]
+  },
+  {
+    "name": "Medi Hub Surat",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        72.8311,
+        21.1702
+      ]
+    },
+    "products": [
+      "Nivea",
+      "Moov",
+      "Crocin",
+      "ORS",
+      "Paracetamol",
+      "Savlon"
+    ]
+  },
+  {
+    "name": "Health Hub Goa",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        73.8543,
+        15.2993
+      ]
+    },
+    "products": [
+      "Crocin",
+      "Nivea",
+      "Paracetamol",
+      "Himalaya Face Wash",
+      "Pain Relief Gel"
+    ]
+  },
+  {
+    "name": "Wellness Pharmacy Bhopal",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        77.4126,
+        23.2599
+      ]
+    },
+    "products": [
+      "Dolo 650",
+      "Moov",
+      "ORS",
+      "Nivea",
+      "Savlon"
+    ]
+  },
+  {
+    "name": "Trust Centre Chandigarh",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        76.7794,
+        30.7333
+      ]
+    },
+    "products": [
+      "Nivea",
+      "Dolo 650",
+      "Volini"
+    ]
+  },
+  {
+    "name": "Care Pharmacy Hyderabad",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        78.4867,
+        17.385
+      ]
+    },
+    "products": [
+      "Nivea",
+      "Vicks",
+      "Dettol",
+      "Cough Syrup",
+      "Baby Lotion",
+      "ORS"
+    ]
+  },
+  {
+    "name": "Health Meds Coimbatore",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        76.964,
+        11.0168
+      ]
+    },
+    "products": [
+      "Moov",
+      "Antibiotics",
+      "Baby Lotion",
+      "Cough Syrup",
+      "Vicks"
+    ]
+  },
+  {
+    "name": "Care Centre Mysore",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        76.6394,
+        12.2958
+      ]
+    },
+    "products": [
+      "ORS",
+      "Crocin",
+      "Dolo 650",
+      "Hand Sanitizer"
+    ]
+  },
+  {
+    "name": "Wellness Meds Mysore",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        76.6394,
+        12.2958
+      ]
+    },
+    "products": [
+      "Vicks",
+      "Paracetamol",
+      "Himalaya Face Wash",
+      "Moov",
+      "Crocin",
+      "Volini"
+    ]
+  },
+  {
+    "name": "Plus Store Chennai",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        80.2707,
+        13.0827
+      ]
+    },
+    "products": [
+      "Baby Lotion",
+      "Nivea",
+      "Hand Sanitizer",
+      "Antibiotics",
+      "Himalaya Face Wash",
+      "Vicks"
+    ]
+  },
+  {
+    "name": "Lifeline Pharmacy Surat",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        72.8311,
+        21.1702
+      ]
+    },
+    "products": [
+      "Nivea",
+      "ORS",
+      "Cough Syrup",
+      "Moov"
+    ]
+  },
+  {
+    "name": "Health Store Mysore",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        76.6394,
+        12.2958
+      ]
+    },
+    "products": [
+      "Nivea",
+      "Bandages",
+      "Baby Lotion",
+      "Hand Sanitizer"
+    ]
+  },
+  {
+    "name": "Health Centre Nagpur",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        79.0882,
+        21.1458
+      ]
+    },
+    "products": [
+      "Crocin",
+      "Hand Sanitizer",
+      "Pain Relief Gel",
+      "Nivea"
+    ]
+  },
+  {
+    "name": "Care Centre Goa",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        73.8543,
+        15.2993
+      ]
+    },
+    "products": [
+      "Nivea",
+      "ORS",
+      "Hand Sanitizer"
+    ]
+  },
+  {
+    "name": "Plus Store Goa",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        73.8543,
+        15.2993
+      ]
+    },
+    "products": [
+      "Nivea",
+      "Cough Syrup",
+      "Hand Sanitizer",
+      "Antibiotics",
+      "Crocin"
+    ]
+  },
+  {
+    "name": "Cure Meds Bhopal",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        77.4126,
+        23.2599
+      ]
+    },
+    "products": [
+      "Volini",
+      "Savlon",
+      "Paracetamol",
+      "Dettol",
+      "Bandages"
+    ]
+  },
+  {
+    "name": "Medi Store Delhi",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        77.1025,
+        28.7041
+      ]
+    },
+    "products": [
+      "Pain Relief Gel",
+      "Nivea",
+      "Savlon",
+      "ORS",
+      "Paracetamol",
+      "Hand Sanitizer"
+    ]
+  }
+]
